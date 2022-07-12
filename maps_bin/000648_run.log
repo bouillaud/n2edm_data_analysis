@@ -1,0 +1,235 @@
+[2022-04-25 19:57:37.975] [    info] [             sequencer] Degaussing done
+[2022-04-25 19:57:39.132] [    info] [             sequencer] goto z=390
+[2022-04-25 19:58:06.307] [    info] [             sequencer] goto z=-390
+[2022-04-25 19:58:59.431] [    info] [             sequencer] goto z=0
+[2022-04-25 19:59:26.612] [    info] [             sequencer] goto z=390
+[2022-04-25 19:59:53.767] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:00:46.895] [    info] [             sequencer] goto z=0
+[2022-04-25 20:01:14.076] [    info] [             sequencer] goto z=390
+[2022-04-25 20:01:41.235] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:02:34.363] [    info] [             sequencer] goto z=0
+[2022-04-25 20:03:01.556] [    info] [             sequencer] goto z=390
+[2022-04-25 20:03:28.719] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:04:21.843] [    info] [             sequencer] goto z=0
+[2022-04-25 20:04:49.031] [    info] [             sequencer] goto z=390
+[2022-04-25 20:05:16.195] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:06:09.319] [    info] [             sequencer] goto z=0
+[2022-04-25 20:06:36.512] [    info] [             sequencer] goto z=390
+[2022-04-25 20:07:03.672] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:07:56.791] [    info] [             sequencer] goto z=0
+[2022-04-25 20:08:23.972] [    info] [             sequencer] goto z=390
+[2022-04-25 20:08:51.143] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:09:44.259] [    info] [             sequencer] goto z=0
+[2022-04-25 20:10:11.439] [    info] [             sequencer] goto z=390
+[2022-04-25 20:10:38.611] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:11:31.731] [    info] [             sequencer] goto z=0
+[2022-04-25 20:11:58.915] [    info] [             sequencer] goto z=390
+[2022-04-25 20:12:26.075] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:13:19.203] [    info] [             sequencer] goto z=0
+[2022-04-25 20:13:46.391] [    info] [             sequencer] goto z=390
+[2022-04-25 20:14:13.547] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:15:06.679] [    info] [             sequencer] goto z=0
+[2022-04-25 20:15:33.867] [    info] [             sequencer] goto z=390
+[2022-04-25 20:16:01.027] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:16:54.151] [    info] [             sequencer] goto z=0
+[2022-04-25 20:17:21.331] [    info] [             sequencer] goto z=390
+[2022-04-25 20:17:48.495] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:18:41.615] [    info] [             sequencer] goto z=0
+[2022-04-25 20:19:08.811] [    info] [             sequencer] goto z=390
+[2022-04-25 20:19:35.971] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:20:29.091] [    info] [             sequencer] goto z=0
+[2022-04-25 20:20:56.288] [    info] [             sequencer] goto z=390
+[2022-04-25 20:21:23.451] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:22:16.567] [    info] [             sequencer] goto z=0
+[2022-04-25 20:22:43.755] [    info] [             sequencer] goto z=390
+[2022-04-25 20:23:10.927] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:24:04.039] [    info] [             sequencer] goto z=0
+[2022-04-25 20:24:31.231] [    info] [             sequencer] goto z=390
+[2022-04-25 20:24:58.391] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:25:51.515] [    info] [             sequencer] goto z=0
+[2022-04-25 20:26:18.700] [    info] [             sequencer] goto z=390
+[2022-04-25 20:26:45.863] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:27:38.991] [    info] [             sequencer] goto z=0
+[2022-04-25 20:28:06.179] [    info] [             sequencer] goto z=390
+[2022-04-25 20:28:33.339] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:29:26.467] [    info] [             sequencer] goto z=0
+[2022-04-25 20:29:53.660] [    info] [             sequencer] goto z=390
+[2022-04-25 20:30:20.816] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:31:13.943] [    info] [             sequencer] goto z=0
+[2022-04-25 20:31:41.124] [    info] [             sequencer] goto z=390
+[2022-04-25 20:32:08.291] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:33:01.419] [    info] [             sequencer] goto z=0
+[2022-04-25 20:33:28.604] [    info] [             sequencer] goto z=390
+[2022-04-25 20:33:55.775] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:34:48.903] [    info] [             sequencer] goto z=0
+[2022-04-25 20:35:16.087] [    info] [             sequencer] goto z=390
+[2022-04-25 20:35:43.251] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:36:36.375] [    info] [             sequencer] goto z=0
+[2022-04-25 20:37:03.564] [    info] [             sequencer] goto z=390
+[2022-04-25 20:37:30.723] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:38:23.847] [    info] [             sequencer] goto z=0
+[2022-04-25 20:38:51.036] [    info] [             sequencer] goto z=390
+[2022-04-25 20:39:18.199] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:40:11.315] [    info] [             sequencer] goto z=0
+[2022-04-25 20:40:38.508] [    info] [             sequencer] goto z=390
+[2022-04-25 20:41:05.679] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:41:58.803] [    info] [             sequencer] goto z=0
+[2022-04-25 20:42:25.992] [    info] [             sequencer] goto z=390
+[2022-04-25 20:42:53.151] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:43:46.279] [    info] [             sequencer] goto z=0
+[2022-04-25 20:44:13.459] [    info] [             sequencer] goto z=390
+[2022-04-25 20:44:40.631] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:45:33.755] [    info] [             sequencer] goto z=0
+[2022-04-25 20:46:00.943] [    info] [             sequencer] goto z=390
+[2022-04-25 20:46:28.107] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:47:21.235] [    info] [             sequencer] goto z=0
+[2022-04-25 20:47:48.415] [    info] [             sequencer] goto z=390
+[2022-04-25 20:48:15.571] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:49:08.699] [    info] [             sequencer] goto z=0
+[2022-04-25 20:49:35.880] [    info] [             sequencer] goto z=390
+[2022-04-25 20:50:03.043] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:50:56.163] [    info] [             sequencer] goto z=0
+[2022-04-25 20:51:23.349] [    info] [             sequencer] goto z=390
+[2022-04-25 20:51:50.511] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:52:43.639] [    info] [             sequencer] goto z=0
+[2022-04-25 20:53:10.824] [    info] [             sequencer] goto z=390
+[2022-04-25 20:53:37.991] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:54:31.115] [    info] [             sequencer] goto z=0
+[2022-04-25 20:54:58.304] [    info] [             sequencer] goto z=390
+[2022-04-25 20:55:25.459] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:56:18.583] [    info] [             sequencer] goto z=0
+[2022-04-25 20:56:45.763] [    info] [             sequencer] goto z=390
+[2022-04-25 20:57:12.935] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:58:06.059] [    info] [             sequencer] goto z=0
+[2022-04-25 20:58:33.243] [    info] [             sequencer] goto z=390
+[2022-04-25 20:59:00.415] [    info] [             sequencer] goto z=-390
+[2022-04-25 20:59:53.543] [    info] [             sequencer] goto z=0
+[2022-04-25 21:00:20.727] [    info] [             sequencer] goto z=390
+[2022-04-25 21:00:47.891] [    info] [             sequencer] goto z=-390
+[2022-04-25 21:01:41.019] [    info] [             sequencer] goto z=0
+[2022-04-25 21:02:08.200] [    info] [             sequencer] goto z=390
+[2022-04-25 21:02:35.367] [    info] [             sequencer] goto z=-390
+[2022-04-25 21:03:28.487] [    info] [             sequencer] goto z=0
+[2022-04-25 21:03:55.668] [    info] [             sequencer] goto z=390
+[2022-04-25 21:04:22.835] [    info] [             sequencer] goto z=-390
+[2022-04-25 21:05:15.955] [    info] [             sequencer] goto z=0
+[2022-04-25 21:05:43.139] [    info] [             sequencer] goto z=390
+[2022-04-25 21:06:10.303] [    info] [             sequencer] goto z=-390
+[2022-04-25 21:07:03.435] [    info] [             sequencer] goto z=0
+[2022-04-25 21:07:30.615] [    info] [             sequencer] goto z=390
+[2022-04-25 21:07:57.787] [    info] [             sequencer] goto z=-390
+[2022-04-25 21:08:50.907] [    info] [             sequencer] goto z=0
+[2022-04-25 21:09:18.140] [    info] [             sequencer] Start FG calibration
+[2022-04-25 21:09:21.245] [    info] [             sequencer] move to r=0
+[2022-04-25 21:09:24.415] [    info] [             sequencer] rotate phi to -5
+[2022-04-25 21:09:27.547] [    info] [             sequencer] rotate phi to 360
+[2022-04-25 21:09:30.620] [    info] [             sequencer] start calibration cycle at rot=0
+[2022-04-25 21:09:30.667] [    info] [             sequencer] rotate phi to 360
+[2022-04-25 21:10:06.819] [    info] [             sequencer] rotate phi to 0
+[2022-04-25 21:10:43.912] [    info] [             sequencer] rotate Fluxgate 0->90
+[2022-04-25 21:11:00.038] [    info] [             sequencer] rotate Fluxgate done
+[2022-04-25 21:11:05.231] [    info] [             sequencer] move to r=0
+[2022-04-25 21:11:08.363] [    info] [             sequencer] rotate phi to 0
+[2022-04-25 21:11:11.449] [    info] [             sequencer] start calibration cycle at rot=90
+[2022-04-25 21:11:11.496] [    info] [             sequencer] rotate phi to 360
+[2022-04-25 21:11:47.647] [    info] [             sequencer] rotate phi to -5
+[2022-04-25 21:12:24.726] [    info] [             sequencer] rotate Fluxgate 90->0
+[2022-04-25 21:12:35.859] [    info] [             sequencer] rotate Fluxgate done
+[2022-04-25 21:12:35.909] [    info] [             sequencer] rotate phi to 0
+[2022-04-25 21:12:39.071] [    info] [             sequencer] goto r=-10
+[2022-04-25 21:12:48.203] [    info] [             sequencer] goto r=0
+[2022-04-25 21:12:51.417] [    info] [             sequencer] start of z loop z=-390
+[2022-04-25 21:12:51.459] [    info] [             sequencer] goto z=-390
+[2022-04-25 21:13:18.627] [    info] [             sequencer] goto phi=-5
+[2022-04-25 21:13:22.036] [    info] [             sequencer] goto r=0
+[2022-04-25 21:13:25.163] [    info] [             sequencer] start ring at z=-390 and r=0
+[2022-04-25 21:14:39.736] [    info] [             sequencer] goto r=100
+[2022-04-25 21:14:48.868] [    info] [             sequencer] start ring at z=-390 and r=100
+[2022-04-25 21:16:02.436] [    info] [             sequencer] goto r=300
+[2022-04-25 21:16:18.571] [    info] [             sequencer] start ring at z=-390 and r=300
+[2022-04-25 21:17:32.140] [    info] [             sequencer] goto r=500
+[2022-04-25 21:17:48.279] [    info] [             sequencer] start ring at z=-390 and r=500
+[2022-04-25 21:19:01.844] [    info] [             sequencer] goto r=700
+[2022-04-25 21:19:17.975] [    info] [             sequencer] start ring at z=-390 and r=700
+[2022-04-25 21:20:31.368] [    info] [             sequencer] start of z loop z=-260
+[2022-04-25 21:20:31.412] [    info] [             sequencer] goto z=-260
+[2022-04-25 21:20:41.588] [    info] [             sequencer] goto phi=-5
+[2022-04-25 21:20:41.963] [    info] [             sequencer] goto r=0
+[2022-04-25 21:21:33.128] [    info] [             sequencer] start ring at z=-260 and r=0
+[2022-04-25 21:22:46.692] [    info] [             sequencer] goto r=100
+[2022-04-25 21:22:55.828] [    info] [             sequencer] start ring at z=-260 and r=100
+[2022-04-25 21:24:09.384] [    info] [             sequencer] goto r=300
+[2022-04-25 21:24:25.528] [    info] [             sequencer] start ring at z=-260 and r=300
+[2022-04-25 21:25:39.096] [    info] [             sequencer] goto r=500
+[2022-04-25 21:25:55.227] [    info] [             sequencer] start ring at z=-260 and r=500
+[2022-04-25 21:27:08.784] [    info] [             sequencer] goto r=700
+[2022-04-25 21:27:24.928] [    info] [             sequencer] start ring at z=-260 and r=700
+[2022-04-25 21:28:39.314] [    info] [             sequencer] start of z loop z=-130
+[2022-04-25 21:28:39.359] [    info] [             sequencer] goto z=-130
+[2022-04-25 21:28:49.527] [    info] [             sequencer] goto phi=-5
+[2022-04-25 21:28:49.901] [    info] [             sequencer] goto r=0
+[2022-04-25 21:29:41.064] [    info] [             sequencer] start ring at z=-130 and r=0
+[2022-04-25 21:30:54.627] [    info] [             sequencer] goto r=100
+[2022-04-25 21:31:03.760] [    info] [             sequencer] start ring at z=-130 and r=100
+[2022-04-25 21:32:17.323] [    info] [             sequencer] goto r=300
+[2022-04-25 21:32:33.455] [    info] [             sequencer] start ring at z=-130 and r=300
+[2022-04-25 21:33:47.024] [    info] [             sequencer] goto r=500
+[2022-04-25 21:34:03.159] [    info] [             sequencer] start ring at z=-130 and r=500
+[2022-04-25 21:35:16.724] [    info] [             sequencer] goto r=700
+[2022-04-25 21:35:32.851] [    info] [             sequencer] start ring at z=-130 and r=700
+[2022-04-25 21:36:46.240] [    info] [             sequencer] start of z loop z=0
+[2022-04-25 21:36:46.287] [    info] [             sequencer] goto z=0
+[2022-04-25 21:36:56.447] [    info] [             sequencer] goto phi=-5
+[2022-04-25 21:36:56.820] [    info] [             sequencer] goto r=0
+[2022-04-25 21:37:47.975] [    info] [             sequencer] start ring at z=0 and r=0
+[2022-04-25 21:39:02.540] [    info] [             sequencer] goto r=100
+[2022-04-25 21:39:11.671] [    info] [             sequencer] start ring at z=0 and r=100
+[2022-04-25 21:40:26.236] [    info] [             sequencer] goto r=300
+[2022-04-25 21:40:42.371] [    info] [             sequencer] start ring at z=0 and r=300
+[2022-04-25 21:41:56.932] [    info] [             sequencer] goto r=500
+[2022-04-25 21:42:13.064] [    info] [             sequencer] start ring at z=0 and r=500
+[2022-04-25 21:43:27.636] [    info] [             sequencer] goto r=700
+[2022-04-25 21:43:43.768] [    info] [             sequencer] start ring at z=0 and r=700
+[2022-04-25 21:44:57.154] [    info] [             sequencer] start of z loop z=130
+[2022-04-25 21:44:57.195] [    info] [             sequencer] goto z=130
+[2022-04-25 21:45:07.363] [    info] [             sequencer] goto phi=-5
+[2022-04-25 21:45:07.740] [    info] [             sequencer] goto r=0
+[2022-04-25 21:45:58.903] [    info] [             sequencer] start ring at z=130 and r=0
+[2022-04-25 21:47:12.464] [    info] [             sequencer] goto r=100
+[2022-04-25 21:47:21.596] [    info] [             sequencer] start ring at z=130 and r=100
+[2022-04-25 21:48:35.164] [    info] [             sequencer] goto r=300
+[2022-04-25 21:48:51.296] [    info] [             sequencer] start ring at z=130 and r=300
+[2022-04-25 21:50:04.860] [    info] [             sequencer] goto r=500
+[2022-04-25 21:50:20.996] [    info] [             sequencer] start ring at z=130 and r=500
+[2022-04-25 21:51:34.555] [    info] [             sequencer] goto r=700
+[2022-04-25 21:51:50.695] [    info] [             sequencer] start ring at z=130 and r=700
+[2022-04-25 21:53:05.087] [    info] [             sequencer] start of z loop z=260
+[2022-04-25 21:53:05.131] [    info] [             sequencer] goto z=260
+[2022-04-25 21:53:15.295] [    info] [             sequencer] goto phi=-5
+[2022-04-25 21:53:15.672] [    info] [             sequencer] goto r=0
+[2022-04-25 21:54:06.824] [    info] [             sequencer] start ring at z=260 and r=0
+[2022-04-25 21:55:20.388] [    info] [             sequencer] goto r=100
+[2022-04-25 21:55:29.523] [    info] [             sequencer] start ring at z=260 and r=100
+[2022-04-25 21:56:43.095] [    info] [             sequencer] goto r=300
+[2022-04-25 21:56:59.227] [    info] [             sequencer] start ring at z=260 and r=300
+[2022-04-25 21:58:13.792] [    info] [             sequencer] goto r=500
+[2022-04-25 21:58:29.928] [    info] [             sequencer] start ring at z=260 and r=500
+[2022-04-25 21:59:43.488] [    info] [             sequencer] goto r=700
+[2022-04-25 21:59:59.624] [    info] [             sequencer] start ring at z=260 and r=700
+[2022-04-25 22:01:13.020] [    info] [             sequencer] start of z loop z=390
+[2022-04-25 22:01:13.064] [    info] [             sequencer] goto z=390
+[2022-04-25 22:01:23.232] [    info] [             sequencer] goto phi=-5
+[2022-04-25 22:01:23.608] [    info] [             sequencer] goto r=0
+[2022-04-25 22:02:14.767] [    info] [             sequencer] start ring at z=390 and r=0
+[2022-04-25 22:03:29.324] [    info] [             sequencer] goto r=100
+[2022-04-25 22:03:38.463] [    info] [             sequencer] start ring at z=390 and r=100
+[2022-04-25 22:04:52.036] [    info] [             sequencer] goto r=300
+[2022-04-25 22:05:08.176] [    info] [             sequencer] start ring at z=390 and r=300
+[2022-04-25 22:06:22.744] [    info] [             sequencer] goto r=500
+[2022-04-25 22:06:38.884] [    info] [             sequencer] start ring at z=390 and r=500
+[2022-04-25 22:07:53.432] [    info] [             sequencer] goto r=700
+[2022-04-25 22:08:09.572] [    info] [             sequencer] start ring at z=390 and r=700
+[2022-04-25 22:09:24.130] [    info] [             sequencer] ** Main loop start, counter: 1
+[2022-04-25 22:09:24.171] [    info] [             sequencer] set L6S:1 and L6C:0
+[2022-04-25 22:09:24.200] [    info] [             sequencer] move mapper to the center
+[2022-04-25 22:10:15.392] [    info] [             sequencer] start degaussing
